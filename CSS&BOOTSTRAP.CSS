@@ -1,0 +1,47 @@
+.facebook {
+width: 20px;
+height: 20px;
+}
+
+
+.instagram {
+width: 20px;
+height: 20px;
+}
+
+.GMAIL {
+    width: 20px; 
+    height: 20px;
+}
+
+.col-lg-9{
+text-align: center;
+box-sizing: border-box;
+
+
+}
+
+.navbar-collapse-collapse-show {
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-decoration: none;
+    padding: 30px 10%;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    background-color: bisque;
+    border-radius: 0%;
+ 
+}
+
+.list {
+    list-style-type: none;
+}
+
+
+
+ 
